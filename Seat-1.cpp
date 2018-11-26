@@ -23,9 +23,10 @@ int main()
             a[i]=tmp;
         }
 
-        for(int i=0;i<25;i++){
-            cout<<setw(3)<<a[i]<<"   "; //setw(3) 뒤 글을 3글자씩 출력
-            if(i%5==4)  cout<<endl;
+        for(int i=0;i<5;i++){
+            for(int j=0;j<5;j++)
+                cout<<setw(3)<<a[i*5+j]<<"   "; //setw(3) 뒤 글을 3글자씩 출력
+            cout<<endl;
         }
         cout<<"Is this OK? : ";
         ans=cin.get();
