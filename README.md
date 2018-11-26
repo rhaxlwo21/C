@@ -11,5 +11,5 @@
 - Function-3.cpp = call by value 함수
 - Function-4.cpp = call by reference
 - Function-5.cpp = 활용
-- Function-6.cpp = 활용, 
+- Function-6.cpp = 활용, 팩토리얼
 - Swap-1.cpp = 값 
