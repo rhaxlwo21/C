@@ -7,4 +7,4 @@
 - Array-5.cpp = 랜덤으로 받아와 가장큰 수 
 - Seat-1.cpp = 자리바꾸기
 - Function-1.cpp = 매크로 함수
-- Function-2.cpp = 
+- Function-2.cpp = 내장 함수
